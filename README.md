@@ -46,5 +46,3 @@ allowing social connections but still strong protection for the older population
   </tr>
 </table>
 
-## License
-This work is free. You can redistribute it and/or modify it under the terms of the MIT license. It comes without any warranty, to the extent permitted by applicable law.
