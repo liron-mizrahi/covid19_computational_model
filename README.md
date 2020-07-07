@@ -3,6 +3,20 @@
 This is a repository which include the source code for the paper 'Age separation dramatically reduces COVID-19 mortality rate in a computational model of a large population'. 
 
 
+
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/liron-mizrahi/covid19_computational_model/blob/master/figures/Connections%20between%2030%20subjects.png" width="400" height="400">
+    </td>
+    <td>
+      <img src="https://github.com/liron-mizrahi/covid19_computational_model/blob/master/figures/Population%20Distribution.png" width="300" height="300">
+    </td>
+  </tr>
+</table>
+
+
 ## Abstract: 
 COVID-19 pandemic has caused a global lock down in many countries throughout the world. Faced
 with a new reality, and until a vaccine or efficient treatment is found, humanity must figure out
@@ -17,6 +31,20 @@ complete isolation from society may be the most protective scenario for the elde
 it would have an emotional and possibly cognitive impact that might outweigh its benefit. We
 therefore propose creating age-related social recommendations or even restrictions, thereby
 allowing social connections but still strong protection for the older population.
+
+
+<table style="width:100%">
+  <tr>
+  <td>
+    <img src="https://github.com/liron-mizrahi/covid19_computational_model/blob/master/figures/total%20death.png" width="1000" height="400">
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <img src="https://github.com/liron-mizrahi/covid19_computational_model/blob/master/figures/Infections%20Rate.png" width="1000" height="400">
+  </td>
+  </tr>
+</table>
 
 ## License
 This work is free. You can redistribute it and/or modify it under the terms of the MIT license. It comes without any warranty, to the extent permitted by applicable law.
